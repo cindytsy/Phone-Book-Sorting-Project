@@ -1,5 +1,5 @@
 """
-Phone Book App
+Phone Book Sorting
 
 This module implements a phone book using a list of dictionaries.
 Each entry contains:

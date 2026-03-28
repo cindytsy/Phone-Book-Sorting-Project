@@ -1,4 +1,4 @@
-# Phone Book App
+# Phone Book Sorting
 ## Overview
 This project implements a simple phone book system using Python. It allows users to store, manage, and sort contact entries efficiently.
 
